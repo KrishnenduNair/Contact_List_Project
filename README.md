@@ -14,12 +14,6 @@ Python 3.6 or higher<br>
 Flask 2.0 or higher<br>
 SQLite database<br>
 
-# Usage
-Open a web browser and navigate to http://localhost:5000<br>
-Click on the "Create Contact" button to create a new contact<br>
-Fill in the contact information and click "Submit"<br>
-Update or delete contacts by clicking on the "Update" or "Delete" buttons<br>
-
 # API Endpoints
 GET /contacts: Retrieve all contacts<br>
 POST /create_contacts: Create a new contact<br>
