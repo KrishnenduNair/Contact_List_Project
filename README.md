@@ -10,26 +10,26 @@ Update existing contacts<br>
 Delete contacts<br>
 
 # Requirements
-Python 3.6 or higher
-Flask 2.0 or higher
-SQLite database
+Python 3.6 or higher<br>
+Flask 2.0 or higher<br>
+SQLite database<br>
 
 # Usage
-Open a web browser and navigate to http://localhost:5000
-Click on the "Create Contact" button to create a new contact
-Fill in the contact information and click "Submit"
-Update or delete contacts by clicking on the "Update" or "Delete" buttons
+Open a web browser and navigate to http://localhost:5000<br>
+Click on the "Create Contact" button to create a new contact<br>
+Fill in the contact information and click "Submit"<br>
+Update or delete contacts by clicking on the "Update" or "Delete" buttons<br>
 
 # API Endpoints
-GET /contacts: Retrieve all contacts
-POST /create_contacts: Create a new contact
-PATCH /update_contacts/<id>: Update a contact
-DELETE /delete_contacts/<id>: Delete a contact
+GET /contacts: Retrieve all contacts<br>
+POST /create_contacts: Create a new contact<br>
+PATCH /update_contacts/<id>: Update a contact<br>
+DELETE /delete_contacts/<id>: Delete a contact<br>
 
 # Database Schema
-The database schema is defined in the models.py file. It consists of a single table called "contacts" with the following columns:
-
-id: Unique identifier for the contact
-name: Name of the contact
-email: Email address of the contact
-phone: Phone number of the contact
+The database schema is defined in the models.py file. It consists of a single table called "contacts" with the following columns:<br>
+<br>
+id: Unique identifier for the contact<br>
+name: Name of the contact<br>
+email: Email address of the contact<br>
+phone: Phone number of the contact<br>
