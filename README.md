@@ -4,10 +4,10 @@
 This full stack project is a simple contact list application built using Python and Flask. It allows users to create, read , update, and delete contacts basically implementing CRUD operations.
 
 # Features
-Create new contacts
-View all contacts
-Update existing contacts
-Delete contacts
+Create new contacts<br>
+View all contacts<br>
+Update existing contacts<br>
+Delete contacts<br>
 
 # Requirements
 Python 3.6 or higher
