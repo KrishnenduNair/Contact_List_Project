@@ -1,4 +1,4 @@
-# Contact_List_Project
+# Contact List Project
 
 # Overview
 This full stack project is a simple contact list application built using Python and Flask. It allows users to create, read , update, and delete contacts basically implementing CRUD operations.
